@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá Mundo 👋
 
-<!--
-**Yatobuz/Yatobuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalho com analise de produção
+- 🌱 estudando  Python focado em automatização 
+- ⚡ Coloco referencias de animes que eu gosto no meus codigos
 -->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Yato-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   
+  src="https://cdn.discordapp.com/attachments/872092766866399281/891699973626941480/tumblr_7a6ecf6ba181d26f8d0635cce4d3ece5_fa935c7c_400.gif?width=676&height=676">
+</div>
